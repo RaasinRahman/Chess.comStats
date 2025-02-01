@@ -70,3 +70,10 @@ button:hover {
 .stat-item span:first-child {
     font-weight: bold;
 }
+
+#evaluationGraph {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    display: block;
+}
